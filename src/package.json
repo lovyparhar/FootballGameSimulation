@@ -1,0 +1,19 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "Assignment 4 of CG",
+  "main": "app.js",
+  "dependencies": {
+    "cannon-es": "^0.19.0",
+    "express": "^4.18.1",
+    "lil-gui": "^0.16.1",
+    "three": "^0.140.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
